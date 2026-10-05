@@ -4,7 +4,7 @@ Play an original browser chess engine and follow the actual search behind its de
 
 [Play the live demo](https://zulfkicar.github.io/playground/chess/) · [Portfolio](https://zulfkicar.github.io/)
 
-![Chessboard and original search explorer](reports/explorer-upgraded.jpg)
+![Chessboard and original search explorer](reports/public-demo.jpg)
 
 ## Run
 
