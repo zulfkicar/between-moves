@@ -1,0 +1,212 @@
+{
+  "library": "python-chess",
+  "version": "1.11.2",
+  "report": "external-calibration.json",
+  "sourceStatus": "complete",
+  "gamesAudited": 28,
+  "checks": [
+    "Every move legal",
+    "SAN matches",
+    "Final FEN matches",
+    "Terminal condition and winning color",
+    "PGN round-trip"
+  ],
+  "results": [
+    {
+      "opening": 0,
+      "botColor": "w",
+      "pliesIncludingOpening": 67,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 0,
+      "botColor": "b",
+      "pliesIncludingOpening": 80,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 1,
+      "botColor": "w",
+      "pliesIncludingOpening": 80,
+      "termination": "Draw \u00b7 repetition",
+      "result": "1/2-1/2"
+    },
+    {
+      "opening": 1,
+      "botColor": "b",
+      "pliesIncludingOpening": 205,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 2,
+      "botColor": "w",
+      "pliesIncludingOpening": 61,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 2,
+      "botColor": "b",
+      "pliesIncludingOpening": 247,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 3,
+      "botColor": "w",
+      "pliesIncludingOpening": 49,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 3,
+      "botColor": "b",
+      "pliesIncludingOpening": 62,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 4,
+      "botColor": "w",
+      "pliesIncludingOpening": 49,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 4,
+      "botColor": "b",
+      "pliesIncludingOpening": 46,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 5,
+      "botColor": "w",
+      "pliesIncludingOpening": 59,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 5,
+      "botColor": "b",
+      "pliesIncludingOpening": 44,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 0,
+      "botColor": "w",
+      "pliesIncludingOpening": 35,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 0,
+      "botColor": "b",
+      "pliesIncludingOpening": 53,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 1,
+      "botColor": "w",
+      "pliesIncludingOpening": 63,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 1,
+      "botColor": "b",
+      "pliesIncludingOpening": 74,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 0,
+      "botColor": "w",
+      "pliesIncludingOpening": 116,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 0,
+      "botColor": "b",
+      "pliesIncludingOpening": 31,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 1,
+      "botColor": "w",
+      "pliesIncludingOpening": 60,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 1,
+      "botColor": "b",
+      "pliesIncludingOpening": 85,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 2,
+      "botColor": "w",
+      "pliesIncludingOpening": 124,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 2,
+      "botColor": "b",
+      "pliesIncludingOpening": 253,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 3,
+      "botColor": "w",
+      "pliesIncludingOpening": 38,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 3,
+      "botColor": "b",
+      "pliesIncludingOpening": 86,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 4,
+      "botColor": "w",
+      "pliesIncludingOpening": 270,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 4,
+      "botColor": "b",
+      "pliesIncludingOpening": 157,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 5,
+      "botColor": "w",
+      "pliesIncludingOpening": 129,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 5,
+      "botColor": "b",
+      "pliesIncludingOpening": 75,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    }
+  ]
+}

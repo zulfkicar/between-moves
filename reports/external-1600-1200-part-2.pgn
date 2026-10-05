@@ -1,0 +1,35 @@
+[Event "Between Moves external match 1"]
+[White "Between Moves v2"]
+[Black "Stockfish 19 UCI_Elo 1600"]
+[Result "0-1"]
+[TimeControl "120+1"]
+[Termination "Checkmate · Black wins"]
+
+1. d4 d5 2. c4 Nf6 3. Nd2 c5 4. dxc5 Nc6 5. Ngf3 e5 6. cxd5 Qxd5 7. Nb3 Qxd1+ 8. Kxd1 a5 9. Be3 a4 10. Nbd2 Nd5 11. Ne4 Bf5 12. Nd6+ Bxd6 13. cxd6 Nxe3+ 14. fxe3 Ra5 15. Nh4 Be4 16. Ke1 f6 17. Rc1 Bd5 18. a3 Kd7 19. Nf5 h5 20. Nxg7 Be4 21. Rc4 Bb1 22. Rc1 Be4 23. Rc4 Bg6 24. g4 Bf7 25. Rc3 hxg4 26. Nf5 e4 27. Ng3 f5 28. h4 Kxd6 29. h5 Ne7 30. h6 Nd5 31. Nxf5+ Ke5 32. Nd4 Nxc3 33. bxc3 Kf6 34. Bg2 Bg6 35. Kd2 Re8 36. h7 Kg7 37. Ne6+ Kh8 38. Nd4 Rc5 39. Rb1 Rec8 40. Rxb7 Rxc3 41. Re7 g3 42. Bh3 R8c4 43. Be6 Rc7 44. Rxc7 Rxc7 45. Nb5 Rc5 46. Nc3 g2 47. Nxa4 Ra5 48. Nb2 g1=Q 49. Nc4 Rb5 50. a4 Rb1 51. Kc3 Rb8 52. a5 Qf1 53. Kd2 Rd8+ 54. Kc2 Qxe2+ 55. Kc3 Qe1+ 56. Kb2 Rb8+ 57. Nb6 Rd8 58. Nc4 Rd1 59. a6 Be8 60. Bg8 Qb4+ 61. Ka2 Qb1+ 62. Ka3 Rd3# 0-1
+
+[Event "Between Moves external match 2"]
+[White "Stockfish 19 UCI_Elo 1600"]
+[Black "Between Moves v2"]
+[Result "1-0"]
+[TimeControl "120+1"]
+[Termination "Checkmate · White wins"]
+
+1. d4 d5 2. c4 dxc4 3. Na3 Nc6 4. d5 Na5 5. e4 Nf6 6. Qa4+ c6 7. dxc6 Nxc6 8. e5 b5 9. Nxb5 Nd7 10. Nf3 Ndxe5 11. Be3 Nxf3+ 12. gxf3 Qa5+ 13. Qxa5 Nxa5 14. Rd1 Bd7 15. Nc7+ Kd8 16. Nxa8 Kc8 17. b4 cxb3 18. Ba6+ Kd8 19. O-O Ke8 20. Bf4 bxa2 21. Kh1 h5 22. Rd3 Nc6 23. Bb5 e6 24. Nc7+ Ke7 25. Re1 a5 26. Ra1 e5 27. Bg5+ f6 28. Bc1 Bf5 29. Rd1 Nb4 30. Bc4 Bc2 31. Ba3 Bxd1 32. Rxd1 f5 33. Nd5+ Ke8 34. Bxb4 axb4 35. Nc7+ Ke7 36. Nd5+ Ke8 37. Rc1 b3 38. Bxb3 e4 39. Bxa2 exf3 40. h4 g6 41. Nf4 Rh6 42. Kg1 Bd6 43. Nd5 Kd8 44. Nb6 Bf4 45. Rc8+ Ke7 46. Nd5+ Kd7 47. Rf8 Bd6 48. Nf6+ Kc7 49. Rf7+ Kb6 50. Nh7 Bf4 51. Ng5 Bxg5 52. hxg5 Rh8 53. Rf6+ Kc5 54. Be6 Rd8 55. Rxg6 Rd1+ 56. Kh2 f4 57. Bh3 h4 58. Rg8 Rd2 59. Rc8+ Kb6 60. Rf8 Rxf2+ 61. Kg1 Re2 62. Rf6+ Kc5 63. g6 Re1+ 64. Kf2 Re2+ 65. Kxf3 Re3+ 66. Kxf4 Rxh3 67. Rf5+ Kd4 68. g7 Rh2 69. Rg5 Rf2+ 70. Kg4 Rg2+ 71. Kf4 Rf2+ 72. Kg4 Rg2+ 73. Kxh4 Rh2+ 74. Kg3 Rd2 75. g8=Q Kc3 76. Rc5+ Kb2 77. Qb8+ Ka1 78. Qb5 Rc2 79. Kh3 Rxc5 80. Qb3 Rc2 81. Qb4 Ka2 82. Qa4+ Kb2 83. Qd4+ Kb3 84. Qb6+ Kc4 85. Qd6 Kc3 86. Qc5+ Kd3 87. Qa7 Rd2 88. Kg3 Ke4 89. Qa6 Rd3+ 90. Kh4 Rd2 91. Kh5 Rh2+ 92. Kg6 Ke5 93. Qa8 Rf2 94. Qh1 Kd6 95. Qc1 Kd5 96. Qh1+ Kd6 97. Qe4 Ra2 98. Qd3+ Ke5 99. Qb5+ Kd4 100. Qb4+ Ke5 101. Qc3+ Kd6 102. Qd4+ Ke6 103. Qb6+ Kd7 104. Qd4+ Ke8 105. Qh8+ Kd7 106. Qh3+ Ke7 107. Qd3 Rg2+ 108. Kh5 Rh2+ 109. Kg6 Rg2+ 110. Kf5 Rf2+ 111. Ke5 Ke8 112. Qa6 Rb2 113. Ke6 Kd8 114. Qa5+ Kc8 115. Qc3+ Kb7 116. Qxb2+ Kc6 117. Qb4 Kc7 118. Kd5 Kd8 119. Qb7 Ke8 120. Qh7 Kd8 121. Qa7 Ke8 122. Qb7 Kf8 123. Kd6 Kg8 124. Ke6 Kh8 125. Kf6 Kg8 126. Qc7 Kf8 127. Qd8# 1-0
+
+[Event "Between Moves external match 3"]
+[White "Between Moves v2"]
+[Black "Stockfish 19 UCI_Elo 1600"]
+[Result "0-1"]
+[TimeControl "120+1"]
+[Termination "Checkmate · Black wins"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. Bd3 a6 5. O-O g6 6. e5 Bg7 7. Ne4 Qc7 8. Nd6+ Ke7 9. Nxc8+ Qxc8 10. Qe2 Qc7 11. Re1 d5 12. exd6+ Qxd6 13. a4 Rd8 14. Be4 Nf6 15. Ng5 Nd4 16. Qd3 Rd7 17. c4 Ng4 18. h4 Qh2+ 19. Kf1 Qh1# 0-1
+
+[Event "Between Moves external match 4"]
+[White "Stockfish 19 UCI_Elo 1600"]
+[Black "Between Moves v2"]
+[Result "0-1"]
+[TimeControl "120+1"]
+[Termination "Checkmate · Black wins"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Ng4 5. Qe2 Qc7 6. b4 cxb4 7. d4 bxc3 8. h3 Nh6 9. Qc4 b5 10. Qxc3 b4 11. Qd3 Nxe5 12. Qd1 Nxf3+ 13. gxf3 Nf5 14. Bb2 Qb6 15. d5 Qd6 16. Rg1 Qh2 17. Rg4 e6 18. Qe2 Qd6 19. a3 bxa3 20. Nxa3 h5 21. Ra4 Qxd5 22. Nb5 Qc6 23. Rc4 Bc5 24. Qc2 Bb4+ 25. Bc3 Bxc3+ 26. Rxc3 Qb7 27. Nc7+ Ke7 28. Rb1 Nd4 29. Qa2 Nxf3+ 30. Kd1 Qe4 31. Qa3+ d6 32. Kc1 Qe1+ 33. Kb2 Qxf2+ 34. Rc2 Rb8+ 35. Bb5 Nd2 36. Rbc1 Nc4+ 37. Ka2 Nxa3 38. Nd5+ exd5 39. Kxa3 Qe3+ 40. Kb4 Bd7 41. Re2 Rxb5+ 42. Ka4 Rc5+ 43. Kb4 Rb8# 0-1

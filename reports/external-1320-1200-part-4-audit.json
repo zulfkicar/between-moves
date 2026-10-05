@@ -1,0 +1,44 @@
+{
+  "library": "python-chess",
+  "version": "1.11.2",
+  "report": "external-1320-1200-part-4.json",
+  "sourceStatus": "complete",
+  "gamesAudited": 4,
+  "checks": [
+    "Every move legal",
+    "SAN matches",
+    "Final FEN matches",
+    "Terminal condition and winning color",
+    "PGN round-trip"
+  ],
+  "results": [
+    {
+      "opening": 4,
+      "botColor": "w",
+      "pliesIncludingOpening": 49,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 4,
+      "botColor": "b",
+      "pliesIncludingOpening": 46,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    },
+    {
+      "opening": 5,
+      "botColor": "w",
+      "pliesIncludingOpening": 59,
+      "termination": "Checkmate \u00b7 White wins",
+      "result": "1-0"
+    },
+    {
+      "opening": 5,
+      "botColor": "b",
+      "pliesIncludingOpening": 44,
+      "termination": "Checkmate \u00b7 Black wins",
+      "result": "0-1"
+    }
+  ]
+}

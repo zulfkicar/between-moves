@@ -1,0 +1,1 @@
+{"name":"chess-study","private":true,"type":"module","scripts":{"start":"node dev-server.js","test":"node --test engine.test.js upgrades.test.js rating-summary.test.js profile.test.js","tables":"node generate-tablebases.js"}}

@@ -1,0 +1,35 @@
+[Event "Between Moves external match 1"]
+[White "Between Moves v2"]
+[Black "Stockfish 19 UCI_Elo 1440"]
+[Result "1-0"]
+[TimeControl "120+1"]
+[Termination "Checkmate · White wins"]
+
+1. Nc3 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Ng4 5. Bg5 f6 6. exf6 Nc6 7. fxg7 Nxh2 8. gxh8=Q Nxf3+ 9. gxf3 Qd7 10. Rxh7 Qe6 11. Nb5 Qd7 12. Rxd7 a6 13. Rd8+ Nxd8 14. Nxc7+ Kd7 15. Qxf8 Nf7 16. Bf4 b5 17. Qfxd6+ Nxd6 18. Qxd6# 1-0
+
+[Event "Between Moves external match 2"]
+[White "Stockfish 19 UCI_Elo 1440"]
+[Black "Between Moves v2"]
+[Result "1-0"]
+[TimeControl "120+1"]
+[Termination "Checkmate · White wins"]
+
+1. c4 Nc6 2. d4 Nf6 3. d5 Ne5 4. Qc2 c6 5. f4 Neg4 6. h3 Qa5+ 7. Nc3 Nh6 8. e4 cxd5 9. b4 Qxb4 10. Rb1 Qd6 11. e5 Qe6 12. Nge2 dxc4 13. g4 Qc6 14. Rh2 Nd5 15. Rb5 Nxc3 16. Nxc3 a6 17. Bg2 axb5 18. Bxc6 bxc6 19. Re2 b4 20. Ne4 Ba6 21. f5 c3 22. Qa4 g6 23. Qa5 Ra7 24. Qb6 Ra8 25. e6 Rb8 26. Qxb8+ Bc8 27. Qxc8# 1-0
+
+[Event "Between Moves external match 1"]
+[White "Between Moves v2"]
+[Black "Stockfish 19 UCI_Elo 1440"]
+[Result "1-0"]
+[TimeControl "120+1"]
+[Termination "Checkmate · White wins"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bd3 a5 5. O-O h6 6. a4 Bc5 7. Bb5 O-O 8. Bxc6 bxc6 9. d3 d6 10. Be3 Bxe3 11. fxe3 Qe7 12. d4 Ba6 13. dxe5 Nh7 14. exd6 Qxd6 15. Rf2 Qb4 16. Ra2 Nf6 17. Nd4 Rad8 18. e5 Ne8 19. Rd2 c5 20. Nf5 Rb8 21. Ne7+ Kh8 22. Nc6 Be2 23. Qxe2 Qb6 24. Nxb8 Qa7 25. Nd7 c4 26. Nb5 Qa6 27. Nxf8 g5 28. Qxc4 Nd6 29. exd6 h5 30. d7 c6 31. Qxf7 h4 32. Ng6# 1-0
+
+[Event "Between Moves external match 2"]
+[White "Stockfish 19 UCI_Elo 1440"]
+[Black "Between Moves v2"]
+[Result "0-1"]
+[TimeControl "120+1"]
+[Termination "Checkmate · Black wins"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Bd3 d5 5. exd5 Qxd5 6. Be2 Bf5 7. d4 Bxb1 8. dxe5 Qxd1+ 9. Bxd1 Nd7 10. Rxb1 Ndxe5 11. Bc2 Nxf3+ 12. gxf3 Bd6 13. Be3 O-O-O 14. h4 Ne5 15. h5 Nxf3+ 16. Ke2 Ne5 17. Rbg1 g6 18. Ba4 a5 19. Re1 f5 20. Bg5 Rdf8 21. Bd2 f4 22. Reg1 f3+ 23. Kf1 Nc4 24. Be3 Nxe3+ 25. fxe3 Rhg8 26. Kf2 g5 27. Bb3 Rg7 28. h6 Rg6 29. Bc2 g4 30. Bxg6 g3+ 31. Kf1 g2+ 32. Ke1 f2+ 33. Kd2 gxh1=Q 34. Rxh1 hxg6 35. Rf1 Bg3 36. Rh1 f1=Q 37. h7 Rf2# 0-1

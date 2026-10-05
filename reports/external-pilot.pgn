@@ -1,0 +1,17 @@
+[Event "Between Moves external match 1"]
+[White "Between Moves v2"]
+[Black "Stockfish 19 UCI_Elo 1320"]
+[Result "1-0"]
+[TimeControl "120+1"]
+[Termination "Checkmate · White wins"]
+
+1. Nc3 e5 2. Nf3 d6 3. d4 Qe7 4. Nd5 Qd8 5. dxe5 dxe5 6. Nxe5 Ne7 7. Nf6+ gxf6 8. Qxd8+ Kxd8 9. Nxf7+ Kd7 10. Nxh8 Ke6 11. e4 Bd7 12. Bf4 Nbc6 13. Bc4+ Nd5 14. exd5+ Kf5 15. dxc6 bxc6 16. O-O-O Be6 17. Bxe6+ Kxf4 18. g3+ Kg5 19. f4+ Kh6 20. Nf7+ Kh5 21. Bf5 Bc5 22. Bxh7 f5 23. Bxf5 Be3+ 24. Kb1 Bd2 25. Rxd2 Rb8 26. Rd7 a5 27. Nd8 c5 28. Rh7# 1-0
+
+[Event "Between Moves external match 2"]
+[White "Stockfish 19 UCI_Elo 1320"]
+[Black "Between Moves v2"]
+[Result "0-1"]
+[TimeControl "120+1"]
+[Termination "Checkmate · Black wins"]
+
+1. d4 Nc6 2. c4 Nf6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Be3 Nb4 10. Rc1 b5 11. a4 Nd3+ 12. Bxd3 cxd3 13. axb5 O-O-O 14. Bd2 Nxd2 15. Nxd2 g5 16. Rc4 Bg7 17. h4 Rd5 18. Rh3 Bf6 19. Rb4 gxh4 20. Ne3 Rc5 21. Ne4 Re5 22. Rf3 Bg5 23. Kd2 Rd8 24. Kd1 h5 25. Kd2 Rf5 26. Nxg5 Rxg5 27. b6 axb6 28. Re4 e5 29. Rf7 Rd4 30. f3 e6 31. Rh7 c5 32. Re7 b5 33. Ra7 c4 34. Rh7 Rxe4 35. Rh8+ Kd7 36. fxe4 Kd6 37. b4 Kd7 38. Rb8 Kc6 39. Ra8 Rg6 40. Rb8 Rf6 41. Re8 Rf2+ 42. Kd1 Re2 43. Nf1 Kd7 44. Rg8 c3 45. Ng3 c2+ 46. Kc1 Re1+ 47. Kd2 c1=Q+ 48. Kxd3 Re3# 0-1
